@@ -9,4 +9,4 @@ BioPortal: http://bioportal.bioontology.org/ontologies/HOIP
 
 ## Contact
 
-Please use this GitHub repository's [Issue tracker](https://github.com/hoip-ontology/HOIP/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
+Please use this GitHub repository's [Issue tracker](https://github.com/yuki-yamagata/hoip/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
