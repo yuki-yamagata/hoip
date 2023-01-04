@@ -11,6 +11,12 @@ http://purl.bioontology.org/ontology/HOIP/HOIP_0036006
 COVID-19 vaccination course:
 http://purl.bioontology.org/ontology/HOIP/HOIP_0040379
 
+Cellular senescence course:
+http://purl.bioontology.org/ontology/HOIP/HOIP_0060024
+
+Chronic cellular senescence course
+http://purl.bioontology.org/ontology/HOIP/HOIP_0060195
+
 BioPortal: http://bioportal.bioontology.org/ontologies/HOIP
 
 ## Contact
