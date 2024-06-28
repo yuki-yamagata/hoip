@@ -33,6 +33,10 @@ The license code was under Creative Commons 4.0.
 ## Ontology navigator
 HoIP ontology-based knowledge exporter Leaves site https://leaves.riken.jp/
 
+## Publication
+Yamagata, Y., Fukuyama, T., Onami, S. et al. Prototyping an Ontological Framework for Cellular Senescence Mechanisms: A Homeostasis Imbalance Perspective. Sci Data 11, 485 (2024). https://doi.org/10.1038/s41597-024-03331-y
+
+
 ## Data availavility
 
 The visualization data are available on the NDEx website (https://www.ndexbio.org/):
